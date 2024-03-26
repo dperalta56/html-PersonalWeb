@@ -49,11 +49,8 @@
           font-family:"Merriweather", serif;
           font-size: 1.5rem;
          }
-      .Cat {
-            float: left;
-         }
 
-         .btn {
+     .btn {
             color: white;
             padding: 10px 20px;
             background-color: rgb(32, 196, 196);
